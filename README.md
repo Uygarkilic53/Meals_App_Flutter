@@ -58,4 +58,6 @@ To run this project locally, follow these steps:
 
 ## 📸 Screenshot
 
-<img src="screenshot.png" width="300" alt="App Home Screen">
+<p align="center">
+  <img src="screenshot.png" width="300" title="App Screenshot">
+</p>
