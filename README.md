@@ -55,3 +55,7 @@ To run this project locally, follow these steps:
     ```bash
     flutter run
     ```
+
+## 📸 Screenshot
+
+<img src="screenshot.png" width="300" alt="App Home Screen">
